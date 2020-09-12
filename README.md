@@ -32,4 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/36132918/93001782-3091ef00-f53a-11ea-8df6-1389a6e49b6e.png)
 
-Вывод
+Вывод: 
+
+![image](https://user-images.githubusercontent.com/36132918/93001797-456e8280-f53a-11ea-8681-373126a6c60b.png)
+
