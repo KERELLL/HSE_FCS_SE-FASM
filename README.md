@@ -37,3 +37,6 @@
 ![image](https://user-images.githubusercontent.com/36132918/93001821-63d47e00-f53a-11ea-91f8-da731c9c6286.png)
 
 ## Пример 5
+
+Программа создает мини блокнот
+
