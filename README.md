@@ -34,5 +34,6 @@
 
 Вывод: 
 
-![image](https://user-images.githubusercontent.com/36132918/93001797-456e8280-f53a-11ea-8681-373126a6c60b.png)
+![image](https://user-images.githubusercontent.com/36132918/93001821-63d47e00-f53a-11ea-91f8-da731c9c6286.png)
+
 
