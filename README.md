@@ -29,3 +29,7 @@
 
 ## Пример 4
 Программа считывает с файла "test.txt" текст "TEST"
+
+![image](https://user-images.githubusercontent.com/36132918/93001782-3091ef00-f53a-11ea-8df6-1389a6e49b6e.png)
+
+Вывод
