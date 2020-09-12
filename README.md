@@ -40,6 +40,7 @@
 
 Программа создает мини блокнот
 
+![image](https://user-images.githubusercontent.com/36132918/93002825-5c18d780-f542-11ea-9fc3-d268ab7ceccf.png)
 
 
 вывод:
