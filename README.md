@@ -11,4 +11,6 @@
 ![paS4jv_zXrA](https://user-images.githubusercontent.com/36132918/93001061-0a1d8500-f535-11ea-8cab-22cd008b471b.jpg)
 
 ## Пример 3
-Программа записывает текст "TEST" в файл
+Программа записывает текст "TEST" в файл "test.txt"
+
+![image](https://user-images.githubusercontent.com/36132918/93001386-54076a80-f537-11ea-9cd3-0a95686b35d2.png)
