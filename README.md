@@ -26,3 +26,6 @@
 Вывод:
 
 ![image](https://user-images.githubusercontent.com/36132918/93001410-74372980-f537-11ea-9b8b-c00558d0957a.png)
+
+## Пример 4
+Программа считывает с файла "test.txt" текст "TEST"
