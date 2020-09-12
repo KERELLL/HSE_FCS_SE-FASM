@@ -12,6 +12,7 @@
 
 Вывод:
 
+![image](https://user-images.githubusercontent.com/36132918/93001469-d09a4900-f537-11ea-9afd-c41224da3103.png)
 
 
 ## Пример 3
