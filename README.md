@@ -14,6 +14,9 @@
 
 ![image](https://user-images.githubusercontent.com/36132918/93001469-d09a4900-f537-11ea-9afd-c41224da3103.png)
 
+![image](https://user-images.githubusercontent.com/36132918/93001478-ec055400-f537-11ea-82a1-39da99e138b0.png)
+
+
 
 ## Пример 3
 Программа записывает текст "TEST" в файл "test.txt"
