@@ -108,7 +108,7 @@ positiveVecLoop:
 
         mov eax, [ebx]
         cmp eax, 0
-        jl vectorIncrement      ; Если элемент меньше нуля, то просто увеличиваем счетчик.
+        jle vectorIncrement      ; Если элемент меньше нуля, то просто увеличиваем счетчик.
 
         mov [edx], eax          ; Иначе, добавляем в edx (positiveVector)
         add edx, 4
