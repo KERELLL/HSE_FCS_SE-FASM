@@ -15,7 +15,7 @@
 
 ## 3) Получение массива из положительных элементов
 
-![3](https://user-images.githubusercontent.com/36132918/95022330-4731ee80-067f-11eb-94e8-32f00e38ad58.jpg)
+![image](https://user-images.githubusercontent.com/36132918/95023262-c2e26a00-0684-11eb-9ce1-866056adc52e.png)
 
 ## 4) Вывод старого массива
 
