@@ -26,14 +26,11 @@
 ![5](https://user-images.githubusercontent.com/36132918/95022332-47ca8500-067f-11eb-90d8-e645472ac19c.jpg)
 
 ## Тестирование программы
-1.
-
+## 1
 ![image](https://user-images.githubusercontent.com/36132918/95022426-ea830380-067f-11eb-9c18-876f87f5fd3c.png)
 
-2.
-
+## 2
 ![image](https://user-images.githubusercontent.com/36132918/95022542-a8a68d00-0680-11eb-87dd-43fdda05f0bc.png)
 
-3. 
-
+## 3
 ![image](https://user-images.githubusercontent.com/36132918/95022570-d68bd180-0680-11eb-9828-cca1ccbac0b2.png)
