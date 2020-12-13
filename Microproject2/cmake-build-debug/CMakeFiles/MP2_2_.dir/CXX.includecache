@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/CLionProjects/MP2(2)/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+algorithm
+-
+mutex
+-
+condition_variable
+-
+set
+C:/Users/admin/CLionProjects/MP2(2)/set
+queue
+C:/Users/admin/CLionProjects/MP2(2)/queue
+
